@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import imagenRickMorty from './img/rick-morty.png';
 import './App.css';
 import { Fragment, useState } from 'react';
